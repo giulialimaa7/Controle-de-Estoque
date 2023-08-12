@@ -1,0 +1,6 @@
+venv
+_pycache_
+*.pyc
+*rascunho.txt
+*comandos_uteis.txt
+Release-23.01.0-0
